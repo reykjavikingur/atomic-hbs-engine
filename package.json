@@ -1,6 +1,6 @@
 {
   "name": "atomic-hbs-engine",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Handlebars express view engine for Atomic design prototypes",
   "main": "index.js",
   "scripts": {
